@@ -1,0 +1,28 @@
+body{
+    background-color: dimgray;
+    background-image: url(images\ \(1\).jpg);
+}
+h1{
+    text-align: center;
+    background-color: rgb(150, 147, 141);s
+    font-size: 250%;
+    font-style: italic;
+
+}
+
+table{
+    padding: 16px;
+    border-style:dashed;
+    border-color: rgb(201, 70, 9);
+
+}
+th,td{
+    color: coral;
+    border: 10px solid burlywood;
+}
+image{
+    align-items: center;
+}
+        
+
+ 

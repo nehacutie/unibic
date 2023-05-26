@@ -1,0 +1,27 @@
+table, th,td {
+    border: 20px solid rgb(13, 88, 23);
+
+  }
+thead{color: blueviolet;
+}
+tbody{
+    color: coral;
+}
+
+
+tbody{color: #aa0e6e;}
+
+
+
+h1{
+    font-size: 500%;
+    text-align: center;
+    background-color: beige;
+}
+th{
+    font-size: 250%;
+}
+td{font-size: 200%;}
+table{
+    marker-end: ;
+}

@@ -1,0 +1,20 @@
+h1{
+  font-size: 55px;
+  text-align: center;
+  text-decoration: double;
+  background-color: brown;
+}
+ul{
+    text-align:left;
+    text-decoration:double;
+    color: rgb(40, 23, 194);
+}
+p{
+  color: rgb(190, 25, 25);  
+  font-style: italic;
+
+}
+ol{
+    text-decoration: double;
+text-align: left;
+}
